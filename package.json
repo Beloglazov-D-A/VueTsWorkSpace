@@ -2,9 +2,9 @@
   "name": "workspace-vue_ts_nx",
   "version": "0.0.0",
   "description": "This project creating as template. Technologies: nx, vite, vue, ts and pnpm workspace",
-  "scripts": {
-  },
-  "keywords": [],
   "author": "Danila Beloglazov",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
 }
